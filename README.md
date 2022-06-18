@@ -1,16 +1,18 @@
-### Hi there 👋
+![profile_hits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tadachs&theme=vue)
 
-<!--
-**taDachs/tadachs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO FRIEND
 
-Here are some ideas to get you started:
+This is my personal garbage pile where I keep all the projects that I started but never finsihed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few noteworthy are:
+- ✍ [nort](https://github.com/taDachs/nort) - note managing script
+- 🖌 [kit.vim](https://github.com/taDachs/kit.vim) - vim colorscheme inspired by my university
+- 🤖 [Overview of VAE-based Generative Models](https://github.com/taDachs/Overview-of-Variational-Autoencoder-based-Generative-Models) - reproduction of a set of papers dealing with VAEs
+- 📊 [parkview](https://github.com/pse-parkview/Parkview) - dashboard for benchmarks
+
+## Badges that represent my personality
+![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+![goodbye peepo](https://pbs.twimg.com/media/D114TAYWoAYKyrg.png)
