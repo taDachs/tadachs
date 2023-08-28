@@ -8,7 +8,7 @@ This is my personal garbage pile where I keep all the projects that I started bu
 - 🖌 [kit.vim](https://github.com/taDachs/kit.vim) - vim colorscheme inspired by my university
 - 🤖 [Overview of VAE-based Generative Models](https://github.com/taDachs/Overview-of-Variational-Autoencoder-based-Generative-Models) - reproduction of a set of papers dealing with VAEs
 - 🤖 [RCNN](https://github.com/taDachs/rcnn) - tensorflow/keras implementation of a faster rcnn
-- 🤖 [RCNN](https://github.com/taDachs/ros-nvim) - Neovim plugin for ROS development written in Lua
+- 🤖 [ros-nvim](https://github.com/taDachs/ros-nvim) - Neovim plugin for ROS development written in Lua
 - 📊 [parkview](https://github.com/pse-parkview/Parkview) - dashboard for benchmarks
 
 ## Badges that represent my personality
